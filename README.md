@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     CUSTOMER ||--o{ ORDER : places
     CUSTOMER {
@@ -15,3 +16,4 @@ erDiagram
         int quantity
         float pricePerUnit
     }
+```
